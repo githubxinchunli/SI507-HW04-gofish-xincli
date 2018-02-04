@@ -1,4 +1,4 @@
-# SI507-HW04-gofish-xincli--This is a repository for HW4 Extra Credit assignment Winter 2018 SI507 class at UMich.
+# SI507-HW04-gofish-xincli--This is a repository for HW4 Extra Credit 1 assignment Winter 2018 SI507 class at UMich.
 
 
 # Requirement:
